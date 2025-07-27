@@ -1,0 +1,2180 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "A MINI PROJECT REPORT",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "TRAVEL ITINERARY PLANNER",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "(Enchantress)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "BACHELOR OF TECHNOLOGY",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Computer Science (Artificial Intelligent / Artificial Intelligent and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Machine Learning)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Submitted By",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Arsh Chaudhary (2201921530044)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Amir (2201921530031)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Dilip Kumar (2201921530059)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Under the Supervision of",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Dr./Mr./Ms.  Naresh Kumar",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY &",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MANAGEMENT, GREATER NOIDA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Affiliated to",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DR. APJ ABDUL KALAM TECHNICAL UNIVERSITY,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "LUCKNOW",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2024-2025",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Certificate",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "This is to certify that the Mini Project report entitled",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "\u201cTravel Itinerary Planner",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(Enchantress)\u201d",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "done",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Arsh",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Chaudhary",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(2201921530044),",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Amir",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(2201921530031), Dilip Kumar (2201921530059)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "is an original work carried out",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "by them in Department of Computer Science and Engineering  (AIML), G.L.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Bajaj Institute of Technology & Management, Greater Noida under my",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "supervision . The matter embodied in this project work has not been submitted",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "earlier for the award of any degree or diploma to the best of my knowledge and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "belief.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Date:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4/12/2024",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Dr./Mr./Ms.  Supervisor Name                                 Dean / Head of Department",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Signature of the Supervisor",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Designation of Supervisor",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "iii",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Acknowledgement",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The merciful guidance bestowed to us by the almighty made us stick out this",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "project to a successful end. We humbly pray with sincere heart for his guidance to",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "continue forever.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "We pay thanks to our project guide",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Dr./Mr./Ms.  Naresh Kumar",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "who has given",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "guidance and light to us during this project. His/her versatile knowledge has",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "helped us in the critical times during the span of this project.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "We pay special thanks to our Head of the Department",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Dr. Naresh Kumar",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "who has been",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "always present as a support and help us in all possible way during this project.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "We also take this opportunity to express our gratitude to all those people who have",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "been directly and indirectly with us during the completion of the project.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "We want to thanks our friends who have always encouraged us during this project.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Arsh Chaudhary",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Amir",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Dilip",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Kumar",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Abstract",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Travel planning is often a time-intensive and complex process that requires",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "extensive research and careful consideration to craft a well-structured itinerary. To",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "address this challenge, we have developed an",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "AI-based Travel Itinerary",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Planner",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ", an innovative solution that simplifies and personalizes the entire travel",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "planning experience. This application, leveraging the power of artificial",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "intelligence, transforms basic user inputs into a meticulously curated travel plan",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "that caters to individual preferences and constraints.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Key Features of the Application",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Our application streamlines travel planning by taking only four essential inputs",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "from the user:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Destination",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": The traveler's desired location.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Number of Days",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": The duration of the trip.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Budget",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": The financial limit for the entire journey.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Number of Travelers",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": To tailor recommendations appropriately.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Using these inputs, the system generates a comprehensive itinerary that includes:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Accommodation Recommendations",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": Suggestions for hotels, hostels, or",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "other stays, optimized for budget and convenience.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Time-to-Time Schedule",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": A structured day-to-day plan covering:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Meals",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": Where to have breakfast, lunch, and dinner, featuring local",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "cuisines and popular dining spots.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Activities",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": Famous activities and experiences unique to the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "destination.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Local Delicacies",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": Recommendations for iconic foods to try,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "enhancing cultural immersion.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Must-Visit Places",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ": Highlights of the destination, including",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "landmarks, museums, and scenic spots.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "TABLE OF CONTENT",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Certificate",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(ii)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(iii)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Abstract",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(iv)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(v)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "List of Figures \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(vi)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "List of Tables \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(vii)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Pg.9",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1.1",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Problem Definition\u2026..............................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1.2",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1.3",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Existing System....................................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1.4",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Proposed System....................................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Unique Features of the proposed system",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 2.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Requirement Analysis and System Specification............................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Pg.13",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.1",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Introduction \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.2",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Functional requirements.........................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.3",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Data Requirements.................................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.4",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Performance requirements.....................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "SDLC Model to be used........................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.6",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Used case digram....................................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 3.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "System Design \u2026...................................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Pg.16",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.1",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.2",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Design Approach (function oriented/ object oriented)\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.3",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Design Diagrams....................................................................................",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "vii",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3.4",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "User Interface Design...........................................................................",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3.5",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Database Design....................................................................................",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 4.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Implementation\u2026\u2026\u2026\u2026.\u2026.................................................................",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Pg.19",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "4.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "..................................................................................................",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "4.2",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "...............................................................................",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "4.3",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "..........................................",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 5.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Result & Discussion \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..........................................",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Pg.20",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "5.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "................................................................................................",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "5.2",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "5.3",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ".........................................................................",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 6.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Conclusion, Limitation & Future Scope.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..........",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Pg.23",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "References",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Plagiarism Report",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "viii",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "LIST OF FIGURES",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Figure No.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Page No.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Figure 2.1",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile Development Model",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Pg.15",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Figure 2.2",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Use Case Diagram",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Pg.15",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Figure 3.1",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Object Oriented Diagram",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Pg.16",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Figure 3.2",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "ER Diagram",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Pg.17",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Figure 3.3",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Sequence Diagram",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Pg.17",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Figure 3.4",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Class Diagram",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Pg.17",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Chapter",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.1",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Problem Definition",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Travel planning is one of the most intricate aspects of preparing for a trip. Travelers",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "often spend hours or even days researching destinations, accommodations, local",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "activities, and cuisines to craft a suitable itinerary. This process involves browsing",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "multiple websites, checking user reviews, comparing costs, and aligning the plan",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "with personal preferences and budgets. Despite the abundance of online travel",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "resources, the lack of integrated, personalized, and efficient planning solutions",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "creates frustration and consumes valuable time.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Traditional methods fall short of addressing the individual needs of travelers,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "offering generic recommendations that may not suit their schedules, budgets, or",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "interests. The problem is further exacerbated by the overwhelming number of",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "options, leading to decision fatigue. There is an evident need for an intelligent",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "system that can provide an end-to-end solution for travel planning in a fraction of",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the time while ensuring a personalized, well-curated experience.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "1.2 Project Overview",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The AI-based Travel Itinerary Planner is a web-based application designed to",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "transform the travel planning process. By leveraging artificial intelligence, the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "system takes only four inputs from users\u2014destination, number of days, budget, and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "number of travelers\u2014and generates a highly personalized, time-to-time travel",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "itinerary.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The itinerary encompasses:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Accommodation Suggestions: AI-curated recommendations for hotels,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "hostels, or budget stays based on user preferences and budgets.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Daily Schedule: A structured plan with:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Meal recommendations for breakfast, lunch, and dinner, featuring",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "local delicacies and popular eateries.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Activities and attractions tailored to the destination\u2019s culture and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "highlights.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Recommendations for iconic local dishes to enhance the culinary",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "experience.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Dynamic",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Updates:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Real-time",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "optimization",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "based",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "changing",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "circumstances, such as weather or local events.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The application employs cutting-edge tools and technologies, including React, Vite,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Google Gemini AI, and Google Firebase, to deliver a responsive, fast, and user-",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "friendly experience.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "1.3 Existing System",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The current methods for travel planning rely heavily on manual research and generic",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "tools:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Travel Agencies: Offer limited flexibility and may not cater to specific user",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "preferences.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Online Platforms: Websites like TripAdvisor and Booking.com provide",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "fragmented information, requiring users to compile their itineraries",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "manually.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Guidebooks: Outdated and unable to adapt to user preferences or real-time",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "changes.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "These systems lack integration, personalization, and real-time adaptability, making",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "them cumbersome and less effective in meeting modern travelers\u2019 expectations.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "1.4 Proposed System",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The proposed system introduces a fully automated and personalized travel planning",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "solution powered by artificial intelligence. The AI-based Travel Itinerary Planner",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "addresses the gaps in existing systems by providing:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Automation: Eliminates the need for manual research, significantly",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "reducing planning time.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Personalization: Tailors recommendations to individual preferences,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "budgets, and schedules.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Real-Time Adaptability: Updates recommendations based on live data, such",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "as weather conditions or local events.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Comprehensiveness:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Offers",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "end-to-end",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "solution,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "covering",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "accommodations, meals, activities, and cultural experiences.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "1.5 Unique Features of the Proposed System",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "AI-Powered Personalization: Uses advanced algorithms to analyze user",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "inputs and generate itineraries that align with their preferences and",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "xii",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "constraints.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Real-Time Data Integration: Leverages APIs to provide up-to-date",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "recommendations and adjustments.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Budget Optimization: Ensures itineraries are feasible within user-specified",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "budgets.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Culinary Experiences: Highlights must-try local dishes and dining options",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "for an authentic experience.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Responsive Design: Optimized for accessibility on various devices,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "ensuring a seamless user experience.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Scalability: Designed to handle a large number of users and destinations",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "efficiently.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "xiii",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Chapter",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Requirement Analysis and System Specification",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "2.1 Introduction",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Requirement analysis is a critical phase in the software development lifecycle that",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "identifies and documents the functional and non-functional requirements of the",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "system. For this project, the analysis focuses on defining the user needs, system",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "capabilities, data specifications, and performance benchmarks required for the AI-",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "powered Travel Itinerary Planner.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "2.2 Functional Requirements",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The functional requirements define the core functionalities of the application,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "including:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Input Handling: Accept user inputs for destination, budget, travel days, and",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "number of travelers.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Itinerary Generation: Generate a detailed day-to-day itinerary tailored to the",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "user's preferences.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Recommendations: Provide personalized suggestions for accommodations,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "activities, meals, and local attractions.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Real-Time Adjustments: Adapt recommendations based on live data such",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "as weather or event changes.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "xiv",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "User Interaction: Allow users to view, edit, and save itineraries.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "2.3 Data Requirements",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "The system relies on extensive datasets to generate accurate and relevant",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "recommendations:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Accommodation Data: Information on hotels, hostels, and alternative stays",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "with price ranges and reviews.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Attractions and Activities: Data on popular destinations, cultural",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "experiences, and local events.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Culinary Information: Details of local restaurants, cafes, and must-try",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "dishes.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Geographic Data: Maps and transportation details for planning routes and",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "schedules.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "2.4 Performance Requirements",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Speed: Itineraries should be generated within 5 seconds.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Scalability: The system must support a high volume of concurrent users.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Accessibility: The app should load efficiently across devices and internet",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "speeds.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "2.5 SDLC Model to be used",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 2.1",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The Agile Development Model was chosen for its flexibility and iterative nature,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "allowing continuous refinement based on user feedback. This approach ensures the",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "system meets user needs effectively while maintaining adaptability.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "2.6 Used case diagram",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 2.2",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The use case diagram illustrates interactions between the user and the system,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "focusing on the core functionalities like input submission, itinerary generation, and",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "real-time adjustments.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "xvi",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Chapter",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "System Design",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Introduction",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "System design translates the requirements into a blueprint for implementation. This",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "chapter details the architectural, database, and user interface designs.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "3.2 Design Approach",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 3.1.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "The design follows an",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "object-oriented approach",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": ", ensuring modularity and",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "reusability of components like itinerary generation, data fetching, and user",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "interaction modules.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "3.3 Design Diagrams",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "ER Diagram",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": ": Represents the relationship between entities like users,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "accommodations, activities, and itineraries.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "xvii",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 3.2.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Sequence Diagram",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": ": Illustrates the interaction flow between user actions",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "and system responses.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 3.3.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Class Diagram",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": ": Highlights the object-oriented relationships within the",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "system.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 3.4.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "3.4 User Interface Design",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "The UI is designed using",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "React",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "with a combination of",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Shadcn/UI",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Tailwind CSS",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Bootstrap",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "to ensure:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Intuitive navigation.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "xviii",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Modern, responsive layouts suitable for all screen sizes.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Accessibility for diverse user groups.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "3.5 Database Design",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Database Type",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": ": Google Firebase for real-time data management.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Tables",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": ": Includes collections for users, destinations, accommodations,",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "activities, and itineraries.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "xix",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Chapter",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Implementation",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "4.1 Introduction",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Implementation involves the translation of the system design into functional code",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "using selected tools and technologies.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "4.2 Tools/Technologies Used",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Frontend",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": ": React and Vite for efficient development and deployment.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Backend",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": ": Firebase for authentication and real-time database services.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "AI Integration",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": ": Google Gemini AI for itinerary generation.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Styling",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": ": Tailwind CSS, Bootstrap, and Shadcn/UI for modern, responsive",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "design.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "4.3 Coding Standards",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Modular Code",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": ": Ensures reusability and maintainability.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Naming Conventions",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": ": Follows camelCase for variables and PascalCase for",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "components.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Error Handling",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": ": Implements robust mechanisms to manage unexpected",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "inputs or API failures.",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Chapter",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Result & Discussion",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "5.1 Introduction",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "This chapter evaluates the system\u2019s performance and presents snapshots of the",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "implemented features.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "5.2 Snapshots of System",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Screenshots include:",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Home Page",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Sign In",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "xxi",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Make Trip Page",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "View Trip Page",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Trips History Page",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "xxii",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "5.3 Snapshots of Database Tables",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Includes Firebase collections and real-time data updates.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "xxiii",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Chapter",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion, Limitation & Future Scope",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "6.1 Conclusion",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "The AI-based Travel Itinerary Planner successfully streamlines the travel planning",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "process, offering users a comprehensive, efficient, and personalized experience.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "6.2 Limitations",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Limited to destinations with sufficient data.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Internet dependency for data retrieval and AI functionality.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "6.3 Future Scope",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Integration with booking platforms for seamless reservations.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Support for offline itinerary viewing.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Addition of transportation planning modules.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "xxiv",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "References",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "React Documentation.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Tailwind CSS Documentation.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Google Firebase Developer Guide.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Google Gemini AI Specifications.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Plagiarism Report",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Generated using standard tools to ensure originality.",
+      "page": 23
+    }
+  ]
+}

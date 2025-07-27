@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Output directories
+*/outputs/
+*/outputs/**
+
+# Input test data (optional to ignore)
+*/pdfs/
+*/pdfs/**
+
+# JSON input/output examples (optional)
+challenge1b_input.json
+challenge1b_output.json
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Docker-related
+*.tar
+*.img
+docker-compose.override.yml
+
+# VSCode settings (optional)
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Python cache
+*.pyc
+
+# Jupyter notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# System generated folders
+__MACOSX/
