@@ -1,5 +1,14 @@
 # Adobe India Hackathon 2025 - Intelligent Document Processing Solutions
 
+## 👥 Team Members
+
+**Team : Hack & Hue**
+
+- **Ayush Jha**
+- **Amarnath Sharma**
+
+---
+
 ## 🎯 Project Overview
 
 This repository contains innovative solutions for the Adobe India Hackathon 2025, focusing on intelligent document processing and persona-driven content analysis. The project demonstrates advanced PDF parsing, semantic understanding, and context-aware information extraction capabilities.
