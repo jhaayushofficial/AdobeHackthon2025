@@ -17,7 +17,7 @@ __pycache__/
 challenge1b_input.json
 challenge1b_output.json
 
-# macOS system files
+# macOS system files.
 .DS_Store
 
 # Windows system files
