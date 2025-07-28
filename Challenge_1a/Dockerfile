@@ -4,7 +4,8 @@ FROM --platform=linux/amd64 python:3.10-slim
 # Set working directory
 WORKDIR /app
 
-# Copy your script into the container
+# Copy requirements and script into the container
+COPY requirements.txt .
 COPY process_pdfs.py .
 
 # Install required packages

@@ -1,119 +1,34 @@
 {
-  "title": "",
+  "title": "Welcome to the",
   "outline": [
     {
       "level": "H1",
-      "text": "Welcome to the",
+      "text": "Welcome to the \u201cConnecting the Dots\u201d Challenge",
       "page": 2
     },
     {
       "level": "H1",
-      "text": "\u201cConnecting the Dots\u201d Challenge",
-      "page": 2
-    },
-    {
-      "level": "H2",
       "text": "Rethink Reading. Rediscover Knowledge",
       "page": 2
     },
     {
-      "level": "H2",
-      "text": "What if every time you opened a PDF, it didn\u2019t just",
+      "level": "H1",
+      "text": "What if every time you opened a PDF, it didn\u2019t just sit there \u2014it spoke to you ,",
       "page": 2
     },
     {
       "level": "H2",
-      "text": "sit there",
+      "text": "That\u2019s the future we\u2019re building \u2014 and we want you to help shape it.",
       "page": 2
     },
     {
       "level": "H2",
-      "text": "\u2014it",
+      "text": "In the Connecting the Dots Challenge , your mission is to reimagine the humble",
       "page": 2
     },
     {
       "level": "H2",
-      "text": "spoke to you",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "connected ideas",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": ", and",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "narrated meaning",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "across your entire library?",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "That\u2019s the future we\u2019re building \u2014 and we want",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "you",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "to help shape it.",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "In the",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "Connecting the Dots Challenge",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": ", your mission is to reimagine the humble",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "PDF as an intelligent, interactive experience\u2014one that",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "understands structure",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "surfaces insights",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": ", and responds",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "to you",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "like a trusted research companion.",
+      "text": "PDF as an intelligent, interactive experience\u2014one that understands structure ,",
       "page": 2
     },
     {
@@ -133,21 +48,6 @@
     },
     {
       "level": "H2",
-      "text": "raw PDFs with blazing speed and pinpoint accuracy. Then, power it up",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "with on-device intelligence that understands sections and links related",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "ideas together.",
-      "page": 2
-    },
-    {
-      "level": "H2",
       "text": "Round 2:",
       "page": 2
     },
@@ -163,42 +63,12 @@
     },
     {
       "level": "H2",
-      "text": "futuristic webapp.",
-      "page": 2
-    },
-    {
-      "level": "H2",
       "text": "Why This Matters",
       "page": 2
     },
     {
       "level": "H2",
       "text": "In a world flooded with documents, what wins is not more content \u2014 it\u2019s",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "context",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": ". You\u2019re not just building tools \u2014 you\u2019re building the future of how we",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "read, learn, and connect",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": ". No matter your background \u2014 ML hacker, UI builder,",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "or insight whisperer \u2014 this is your stage.",
       "page": 2
     },
     {
@@ -212,32 +82,17 @@
       "page": 2
     },
     {
-      "level": "H2",
-      "text": "experience that feels like",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "magic",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": ". Let\u2019s go.",
-      "page": 2
-    },
-    {
       "level": "H1",
       "text": "Round 1A: Understand Your Document",
       "page": 3
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Challenge Theme: Connecting the Dots Through Docs",
       "page": 3
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Your Mission",
       "page": 3
     },
@@ -248,47 +103,12 @@
     },
     {
       "level": "H2",
-      "text": "making sense of it like a machine would. Your job is to extract a structured",
+      "text": "H3 \u2014 in a clean, hierarchical format.",
       "page": 3
     },
     {
       "level": "H2",
-      "text": "outline of the document \u2014 essentially the",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Title",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": ", and headings like",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": ", and",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "\u2014 in a clean, hierarchical format.",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "This outline will be the",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "foundation",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "for the rest of your hackathon journey.",
+      "text": "This outline will be the foundation for the rest of your hackathon journey.",
       "page": 3
     },
     {
@@ -303,21 +123,6 @@
     },
     {
       "level": "H2",
-      "text": "structure. By building an outline extractor, you\u2019re enabling smarter document",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "experiences, like semantic search, recommendation systems, and insight",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "generation.",
-      "page": 3
-    },
-    {
-      "level": "H2",
       "text": "What You Need to Build",
       "page": 3
     },
@@ -328,17 +133,7 @@
     },
     {
       "level": "H2",
-      "text": "Accepts a",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "PDF file",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "(up to 50 pages)",
+      "text": "Accepts a PDF file (up to 50 pages)",
       "page": 3
     },
     {
@@ -353,12 +148,7 @@
     },
     {
       "level": "H2",
-      "text": "Headings:",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "H1, H2, H3 (with level and page number)",
+      "text": "Headings: H1, H2, H3 (with level and page number)",
       "page": 3
     },
     {
@@ -368,66 +158,31 @@
     },
     {
       "level": "H2",
-      "text": "\"title\": \"Understanding AI\",",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "\"outline\": [",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "{ \"level\": \"H1\", \"text\": \"Introduction\", \"page\": 1 },",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "{ \"level\": \"H2\", \"text\": \"What is AI?\", \"page\": 2 },",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "{ \"level\": \"H3\", \"text\": \"History of AI\", \"page\": 3 }",
-      "page": 3
-    },
-    {
-      "level": "H2",
       "text": "You Will Be Provided",
       "page": 3
     },
     {
       "level": "H2",
-      "text": "sample input PDF",
+      "text": "1. A sample input PDF (e.g., sample.pdf)",
       "page": 3
     },
     {
       "level": "H2",
-      "text": "(e.g., sample.pdf)",
+      "text": "2. A sample ground truth output (sample.json) for format clarity",
       "page": 3
     },
     {
-      "level": "H2",
-      "text": "sample ground truth output",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "(sample.json) for format clarity",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Sample Dockerfile",
+      "level": "H1",
+      "text": "3. Sample Dockerfile",
       "page": 4
     },
     {
-      "level": "H2",
-      "text": "Sample Solution",
+      "level": "H1",
+      "text": "4. Sample Solution",
       "page": 4
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Docker Requirements",
       "page": 4
     },
@@ -438,37 +193,12 @@
     },
     {
       "level": "H2",
-      "text": "architecture. Since we will build and run the image on an AMD64",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "machine, your base image and any dependencies should support",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "linux/amd64. Optionally, you can include the following in your",
-      "page": 4
-    },
-    {
-      "level": "H2",
       "text": "Dockerfile to explicitly specify the platform: FROM --",
       "page": 4
     },
     {
       "level": "H2",
-      "text": "platform=linux/amd64 <base_image>",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "CPU architecture:",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "amd64 (x86_64)",
+      "text": "CPU architecture: amd64 (x86_64)",
       "page": 4
     },
     {
@@ -498,32 +228,7 @@
     },
     {
       "level": "H2",
-      "text": "```docker build --platform linux/amd64 -t",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "mysolutionname:somerandomidentifier```",
-      "page": 4
-    },
-    {
-      "level": "H2",
       "text": "After building the image, we will run the solution using the run command",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "specified in the submitted instructions.",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "network none mysolutionname:somerandomidentifier```",
       "page": 4
     },
     {
@@ -538,32 +243,12 @@
     },
     {
       "level": "H2",
-      "text": "generating a corresponding filename.json in /app/output for each",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "filename.pdf",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "output.json",
-      "page": 4
-    },
-    {
-      "level": "H2",
       "text": "Constraints",
       "page": 4
     },
     {
       "level": "H2",
-      "text": "Constraint",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "Requirement",
+      "text": "Constraint Requirement",
       "page": 4
     },
     {
@@ -572,58 +257,33 @@
       "page": 4
     },
     {
-      "level": "H2",
-      "text": "time",
-      "page": 4
-    },
-    {
-      "level": "H2",
-      "text": "\u2264 10 seconds for a 50-page",
-      "page": 4
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "PDF",
       "page": 4
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Model size  \u2264 200MB (if used)",
       "page": 5
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Network",
       "page": 5
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "No internet access",
       "page": 5
     },
     {
-      "level": "H2",
-      "text": "allowed",
-      "page": 5
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "Runtime",
       "page": 5
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Must run on CPU (amd64),",
-      "page": 5
-    },
-    {
-      "level": "H2",
-      "text": "your solution should run on",
-      "page": 5
-    },
-    {
-      "level": "H2",
-      "text": "the system with 8 CPUs and",
       "page": 5
     },
     {
@@ -663,7 +323,7 @@
     },
     {
       "level": "H2",
-      "text": "Performance (Time & Size Compliance)",
+      "text": "Performance (Time & Size Compliance) 10",
       "page": 5
     },
     {
@@ -678,7 +338,7 @@
     },
     {
       "level": "H2",
-      "text": "Total",
+      "text": "Total 45",
       "page": 5
     },
     {
@@ -688,27 +348,22 @@
     },
     {
       "level": "H2",
-      "text": "Git Project with a working Dockerfile in the root director and",
+      "text": "1. Git Project with a working Dockerfile in the root director and",
       "page": 5
     },
     {
       "level": "H2",
-      "text": "A working",
+      "text": "2. A working Dockerfile",
       "page": 5
     },
     {
       "level": "H2",
-      "text": "Dockerfile",
+      "text": "3. All dependencies installed within the container",
       "page": 5
     },
     {
       "level": "H2",
-      "text": "All dependencies installed within the container",
-      "page": 5
-    },
-    {
-      "level": "H2",
-      "text": "A README.md that explains:",
+      "text": "4. A README.md that explains:",
       "page": 5
     },
     {
@@ -728,27 +383,12 @@
     },
     {
       "level": "H2",
-      "text": "documentation purpose, your solution should run using the",
-      "page": 5
-    },
-    {
-      "level": "H2",
-      "text": "\u201cExpected Execution\u201d section above.",
-      "page": 5
-    },
-    {
-      "level": "H2",
       "text": "Pro Tips",
       "page": 5
     },
     {
       "level": "H2",
       "text": "Don\u2019t rely solely on font sizes for heading level determination \u2014",
-      "page": 5
-    },
-    {
-      "level": "H2",
-      "text": "headings in some PDFs break that assumption.",
       "page": 5
     },
     {
@@ -762,27 +402,17 @@
       "page": 5
     },
     {
-      "level": "H2",
-      "text": "1B.",
-      "page": 5
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "Important \u2013 Please keep your Git Repo private till the competition",
       "page": 6
     },
     {
-      "level": "H2",
-      "text": "deadline, you will be informed, when to make the repo public.",
-      "page": 6
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "What Not to Do",
       "page": 6
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Do not hardcode headings or file-specific logic",
       "page": 6
     },
@@ -797,32 +427,17 @@
       "page": 6
     },
     {
-      "level": "H2",
-      "text": "[[Public Dataset Folder]]",
-      "page": 6
-    },
-    {
-      "level": "H2",
-      "text": "(For Sample Input and Output Files, please refer to the appendix)",
-      "page": 6
-    },
-    {
       "level": "H1",
       "text": "Round 1B: Persona-Driven Document Intelligence",
       "page": 7
     },
     {
-      "level": "H2",
-      "text": "Theme:",
+      "level": "H1",
+      "text": "Theme: \u201cConnect What Matters \u2014 For the User Who Matters\u201d",
       "page": 7
     },
     {
-      "level": "H2",
-      "text": "\u201cConnect What Matters \u2014 For the User Who Matters\u201d",
-      "page": 7
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "Challenge Brief (For Participants)",
       "page": 7
     },
@@ -833,52 +448,17 @@
     },
     {
       "level": "H2",
-      "text": "and prioritizing the most relevant sections from a collection of documents based",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "on a specific persona and their job-to-be-done.",
-      "page": 7
-    },
-    {
-      "level": "H2",
       "text": "Input Specification",
       "page": 7
     },
     {
       "level": "H2",
-      "text": "Document Collection",
+      "text": "2. Document Collection : 3-10 related PDFs Persona Definition : Role",
       "page": 7
     },
     {
       "level": "H2",
-      "text": ": 3-10 related PDFs",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "Persona Definition",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": ": Role",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "description with specific expertise and focus areas",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "Job-to-be-Done",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": ": Concrete task the persona needs to accomplish",
+      "text": "3. Job-to-be-Done : Concrete task the persona needs to accomplish",
       "page": 7
     },
     {
@@ -888,22 +468,7 @@
     },
     {
       "level": "H2",
-      "text": "solution that teams need to build needs to be generic to generalize to this",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "variety.",
-      "page": 7
-    },
-    {
-      "level": "H2",
       "text": "Documents can be from any domain (Example: Research papers,",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "school/college books, financial reports, news articles etc.)",
       "page": 7
     },
     {
@@ -928,21 +493,6 @@
     },
     {
       "level": "H2",
-      "text": "papers, What should I study for Organic Chemistry given the",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "chemistry documents, Summarize the financials of corporation xyz",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "given the detailed year end financial reports etc.)",
-      "page": 7
-    },
-    {
-      "level": "H2",
       "text": "Sample Test Cases",
       "page": 7
     },
@@ -953,12 +503,7 @@
     },
     {
       "level": "H2",
-      "text": "Documents",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": ": 4 research papers on \"Graph Neural Networks for",
+      "text": "Documents : 4 research papers on \"Graph Neural Networks for",
       "page": 7
     },
     {
@@ -968,72 +513,32 @@
     },
     {
       "level": "H2",
-      "text": "Persona",
+      "text": "Persona : PhD Researcher in Computational Biology",
       "page": 7
     },
     {
       "level": "H2",
-      "text": ": PhD Researcher in Computational Biology",
+      "text": "Job : \"Prepare a comprehensive literature review focusing on",
       "page": 7
     },
     {
-      "level": "H2",
-      "text": "Job",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": ": \"Prepare a comprehensive literature review focusing on",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "methodologies, datasets, and performance benchmarks\"",
-      "page": 7
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "Test Case 2: Business Analysis",
       "page": 8
     },
     {
-      "level": "H2",
-      "text": "Documents",
+      "level": "H1",
+      "text": "Documents : 3 annual reports from competing tech companies",
       "page": 8
     },
     {
-      "level": "H2",
-      "text": ": 3 annual reports from competing tech companies",
+      "level": "H1",
+      "text": "Persona : Investment Analyst",
       "page": 8
     },
     {
-      "level": "H2",
-      "text": "(2022-2024)",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Persona",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": ": Investment Analyst",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Job",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": ": \"Analyze revenue trends, R&D investments, and market",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "positioning strategies\"",
+      "level": "H1",
+      "text": "Job : \"Analyze revenue trends, R&D investments, and market",
       "page": 8
     },
     {
@@ -1043,37 +548,17 @@
     },
     {
       "level": "H2",
-      "text": "Documents",
+      "text": "Documents : 5 chapters from organic chemistry textbooks",
       "page": 8
     },
     {
       "level": "H2",
-      "text": ": 5 chapters from organic chemistry textbooks",
+      "text": "Persona : Undergraduate Chemistry Student",
       "page": 8
     },
     {
       "level": "H2",
-      "text": "Persona",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": ": Undergraduate Chemistry Student",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Job",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": ": \"Identify key concepts and mechanisms for exam preparation",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "on reaction kinetics\"",
+      "text": "Job : \"Identify key concepts and mechanisms for exam preparation",
       "page": 8
     },
     {
@@ -1083,12 +568,7 @@
     },
     {
       "level": "H2",
-      "text": "Output JSON format: Refer",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "challenge1b_output.json",
+      "text": "Output JSON format: Refer challenge1b_output.json",
       "page": 8
     },
     {
@@ -1098,57 +578,17 @@
     },
     {
       "level": "H2",
-      "text": "Metadata:",
+      "text": "1. Metadata:",
       "page": 8
     },
     {
       "level": "H2",
-      "text": "Input documents",
+      "text": "2. Extracted Section:",
       "page": 8
     },
     {
       "level": "H2",
-      "text": "Persona",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Job to be done",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Processing timestamp",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Extracted Section:",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Document",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Page number",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Section title",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Importance_rank",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Sub-section Analysis:",
+      "text": "3. Sub-section Analysis:",
       "page": 8
     },
     {
@@ -1163,86 +603,31 @@
     },
     {
       "level": "H2",
-      "text": "Page Number",
+      "text": "Must run on CPU only",
       "page": 8
     },
     {
       "level": "H2",
-      "text": "Constraints",
+      "text": "Model size \u2264 1GB",
       "page": 8
     },
     {
       "level": "H2",
-      "text": "Must run",
+      "text": "Processing time \u2264 60 seconds for document collection (3-5",
       "page": 8
     },
     {
       "level": "H2",
-      "text": "on CPU",
+      "text": "No internet access allowed during execution",
       "page": 8
     },
     {
-      "level": "H2",
-      "text": "only",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Model size",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "\u2264 1GB",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "Processing time \u2264 60",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "seconds",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "for document collection (3-5",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "documents)",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "No internet access",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "allowed during execution",
-      "page": 8
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "Deliverables",
       "page": 9
     },
     {
-      "level": "H2",
-      "text": "approach_explanation.md (300-500 words explaining",
-      "page": 9
-    },
-    {
-      "level": "H2",
-      "text": "methodology)",
-      "page": 9
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "Dockerfile and execution instructions",
       "page": 9
     },
@@ -1268,17 +653,12 @@
     },
     {
       "level": "H2",
-      "text": "Points",
+      "text": "Points Description",
       "page": 9
     },
     {
       "level": "H2",
-      "text": "Description",
-      "page": 9
-    },
-    {
-      "level": "H2",
-      "text": "Section Relevance",
+      "text": "Section Relevance 60",
       "page": 9
     },
     {
@@ -1288,17 +668,7 @@
     },
     {
       "level": "H2",
-      "text": "persona + job requirements with",
-      "page": 9
-    },
-    {
-      "level": "H2",
-      "text": "proper stack ranking",
-      "page": 9
-    },
-    {
-      "level": "H2",
-      "text": "Sub-Section Relevance",
+      "text": "Sub-Section Relevance 40",
       "page": 9
     },
     {
@@ -1307,18 +677,8 @@
       "page": 9
     },
     {
-      "level": "H2",
-      "text": "extraction and ranking",
-      "page": 9
-    },
-    {
       "level": "H1",
       "text": "Appendix:",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "https://github.com/jhaaj08/Adobe-India-",
       "page": 10
     },
     {
